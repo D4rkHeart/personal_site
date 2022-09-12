@@ -1,2 +1,2 @@
-# personal_site
+# personal site
 My personal protfolio site
